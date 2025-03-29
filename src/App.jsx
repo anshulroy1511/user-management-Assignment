@@ -1,5 +1,5 @@
 import { Routes, Route,} from "react-router-dom";
-import Loginform from "./Pages/Login";
+import Loginform from "./pages/Login";
 import UsersList from "./pages/User";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
