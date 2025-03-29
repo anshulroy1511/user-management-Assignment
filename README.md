@@ -9,7 +9,7 @@ Project Structure------->
 ├──src/                         
 │   ├── pages/                                
 │   │   └── Login.jsx                            
-|   |   └── User.jsx                                
+ │   │   └── User.jsx                                  
 │   ├── App.jsx                            
 │   ├── main.jsx                               
 │   └── index.css                                      
