@@ -6,7 +6,7 @@ The project is built using React + Vite, Axios, Tailwind CSS, and React Toastify
 
 Project Structure------->
 
-├── src/                         
+├──src/                         
 │   ├── pages/                                
 │   │   └── Login.jsx                            
 |   |   └── User.jsx                                
